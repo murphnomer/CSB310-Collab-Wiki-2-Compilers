@@ -1,0 +1,8 @@
+What is the difference between a compiled and interpreted language?
+What are the use cases, advantages and disadvantages of each?
+
+The differences between a compiled and interpreted language are mainly based on the result or outcome from the process of interpreting or compiling the given source. 
+
+With a compiled language, the source code is first compiled and it is converted into machine code that has readable instructions for the computer which allows the process to execute. Compiled languages tend to be much faster and more efficient than interpreted languages because the program is turned into native machine code. Although the entire program needs to be read and translated in order for it to be executed, any errors that are found will prevent the compilation to complete and displays what the error is and where to find it. A disadvantage to compiling languages is that it is not portable, the programs are generally platform dependent and will need to be rewritten if it runs on different platform. Additionally, when the programmer wants to update the program it is has to be entire code as to be rewritten or re-compiled.
+
+With an interpreted language, unlike the compiler, the source code is read as it is by an interpreter. The interpreter parses through the program line by line executing each command. Unfortunately, due to the process of translating each line of code during runtime takes time and can cause the program execution time to be slower overall. Unlike compilers, interpreted languages are much more flexible, with features such as dynamic typing and smaller program sizes. Additionally, they are more portable, since the source code is not changed but executed as is, the code is platform-independent.
