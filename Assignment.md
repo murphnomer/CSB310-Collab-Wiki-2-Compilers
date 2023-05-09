@@ -1,0 +1,1 @@
+A compiler is a program that translates a programming language's source code into machine language and it performs various operations such as parsing, preprocessing, lexical analysis, and semantic analysis. The 3 phases of a compiler are Lexical Analysis, Syntax Analysis and Semantic Analysis. 
