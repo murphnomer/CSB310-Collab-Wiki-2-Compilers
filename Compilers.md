@@ -12,9 +12,7 @@ A compiler is a program that translates a programming language's source code int
 
 ![Phases of compiler operation](/images/PhasesOperationsOfCompiler.png)
 
-## Compiler Basics
-
-### Single, Two, and Multi Pass Compilers
+## Single, Two, and Multi Pass Compilers
 
 Define and explain the similarities and differences between these types of compilers:
 
